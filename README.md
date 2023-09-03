@@ -6,7 +6,7 @@ int main(){
        cout<<"Hello Aarti!!";
 }
 ```
-### WAP a program to check wheter a number is  palindrom or not.
+### WAP a program to check whether a number is  palindrom or not.
 ``` #include <bits/stdc++.h>
 using namespace std;
 
